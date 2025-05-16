@@ -23,8 +23,8 @@
 
 1. **Clone 此儲存庫**：
    ```bash
-   git clone https://github.com/<your-username>/pdf_utilities.git
-   cd pdf_utilities
+   git clone https://github.com/hbr1110/PDF_decrypt_and_split.git
+   cd PDF_decrypt_and_split
    ```
 
 2. **建立虛擬環境 (建議，但非必要)**：
