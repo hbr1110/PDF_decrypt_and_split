@@ -1,0 +1,9 @@
+# macOS 系統檔
+.DS_Store
+
+# Python 虛擬環境
+venv/
+__pycache__/
+
+# 編譯輸出
+*.pyc
